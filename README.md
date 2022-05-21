@@ -51,3 +51,12 @@ Get a specific user:
 ```
 curl http://localhost:3100/api/users/1
 ```
+
+## Configure Bootstrap
+
+Installing Angular Bootstrap
+
+```
+ng add @ng-bootstrap/ng-bootstrap
+```
+
